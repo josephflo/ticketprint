@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+      <h1>TicketPrint</h1>
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
@@ -17,7 +17,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "TicketPrint",
+  title: "Ticketer",
   description: "Created by JosephDev",
 };
 

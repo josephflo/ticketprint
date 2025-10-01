@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <div className="w-full flex flex-col items-center mb-12">
       <h1 className="text-3xl md:text-4xl font-bold text-pink-500 mb-4 text-left w-full max-w-[1092px]">
-        Welcome to Tickify
+        Bienvenido a Ticketer
       </h1>
       <div className="w-full max-w-[1092px] bg-gradient-to-br from-purple-900 to-purple-800 rounded-2xl p-8 md:p-12 shadow-lg border-2 border-pink-500"
         style={{ boxShadow: "0 0 24px 4px #ec4899" }}>
